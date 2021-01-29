@@ -13,7 +13,7 @@ however as I said it's a way to start!
 This is kind of a blog about technology.
 This was builded in a better way, I guess so... hahaha!
 
-# Screenshots
+## Screenshots
 ![](Second_project/screenshot/page0.png)
 ![](Second_project/screenshot/page1.png)
 ![](Second_project/screenshot/page2.png)
