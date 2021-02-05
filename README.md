@@ -1,6 +1,6 @@
 # Html_Projects
 
-Here I'll commit my web sites.
+Here I will commit my web sites. 
 
 # First project
 
